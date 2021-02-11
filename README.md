@@ -1,7 +1,5 @@
-# Coursera: AI for Medical Course
+# Coursera: AI for Medical Prognosis
 Summarize, assignment (Jupyter notebook), labs (Jupyter Notebook) from the Coursera's AI for Medical Course.
-
-https://thisisphume.github.io/Coursera-AI_for_Medical_Course/
 
 <img src="img/2021-01-11-21-15-08.png" width="300" alt="alternate text"/>
 
